@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Titre du channel</title>
+        <description>Description du channel</description>
+
+        <item>
+            <title>Titre de la news</title>
+            <description>Un tutoriels sur les Flux RSS complet avec même le code pour le gérer ! Enjoy !</description>
+            <category>Tutoriels pour webmaster</category>
+            <source url="http://www.craym.eu/rss/flux_rss_news.rss">Craym's News</source>
+        </item>
+    </channel>
+</rss>
